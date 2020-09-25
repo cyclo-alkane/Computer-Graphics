@@ -1,3 +1,5 @@
+//Drawing a line using equation y=mx+c
+
 #include<stdio.h>
 #include<GL/glut.h>
 void line(double precision){
